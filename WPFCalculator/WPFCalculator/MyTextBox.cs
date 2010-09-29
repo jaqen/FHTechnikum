@@ -5,6 +5,9 @@ using System.Text;
 
 namespace WPFCalculator
 {
+    /// <summary>
+    /// MyTextBox
+    /// </summary>
     class MyTextBox : System.Windows.Controls.TextBox
     {
         protected override void OnPreviewGotKeyboardFocus(System.Windows.Input.KeyboardFocusChangedEventArgs e)

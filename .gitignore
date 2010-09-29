@@ -1,1 +1,4 @@
 *.suo
+
+/WPFCalculator/WPFCalculator/bin
+/WPFCalculator/WPFCalculator/obj
