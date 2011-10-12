@@ -14,6 +14,7 @@ namespace WPFCalculator
         {
             e.Handled = true;
             base.OnPreviewGotKeyboardFocus(e);
+            Console.WriteLine("Sewi was here!");
         }
  
     }
